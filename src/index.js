@@ -7,4 +7,3 @@ pageLoad();
 document.getElementById("home").addEventListener("click", pageLoad)
 document.getElementById("contact").addEventListener("click", loadContact);
 document.getElementById("menu").addEventListener("click", loadMenu);
-
