@@ -1,6 +1,7 @@
 import { pageLoad }  from "./pageLoad";
 import { loadContact }  from "./contact";
 import { loadMenu } from "./menu";
+import './style.css';
 pageLoad(); 
 
 document.getElementById("home").addEventListener("click", pageLoad)
